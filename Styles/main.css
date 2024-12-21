@@ -12,7 +12,13 @@ body {
 }
 
 .title {
-    align-content: center;
-    justify-content: center;
+    align-self: center;
+    justify-self: center;
     background-color: azure;
+    display: flexbox
+}
+
+.flextest {
+    align-self: start;
+    justify-self: auto;
 }
