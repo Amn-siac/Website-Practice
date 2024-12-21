@@ -10,3 +10,9 @@ h1 {
 body {
     background-color: bisque;
 }
+
+.title {
+    align-content: center;
+    justify-content: center;
+    background-color: azure;
+}
